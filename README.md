@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Tailspin2886/Space%20Game%20-%20web%20-%20Pipeline%20-%20New/_apis/build/status/theyat01.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Tailspin2886/Space%20Game%20-%20web%20-%20Pipeline%20-%20New/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
